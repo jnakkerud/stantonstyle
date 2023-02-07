@@ -16,7 +16,7 @@
 ## 6 day Ski Pass & Ski Rentals
 
 * I will check with Alpen Lodge if they offer any discounts or can purchase on our behalf
-* In the past we have used [Jennewein](https://www.sport-jennewein.com/) and [Intersport](https://www.intersport-arlberg.com/en/)
+* In the past we have used [Jennewein](https://www.sport-jennewein.com/) and [Intersport](https://www.intersport-arlberg.com/en/) for ski rentals
 
 ## Sat, March 11 – Checkout St. Anton
 * If you are flying back on Sunday from Zurich then you can stay at the Airport Hotel right by the terminals or downtown and take in another evening in Zurich (the airport is only 10 mins by train).
