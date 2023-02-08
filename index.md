@@ -21,3 +21,22 @@
 ## Sat, March 11 – Checkout St. Anton
 * If you are flying back on Sunday from Zurich then you can stay at the Airport Hotel right by the terminals or downtown and take in another evening in Zurich (the airport is only 10 mins by train).
 * Jon, Dave and I are taking a train to Innsbruck and spend a night in Innsbruck. Depending on snow conditions, I may join Jon in the Dolomites for a few days after St. Anton.
+
+# Stanton Weather and Skiing
+
+Weather forecast can be found [here](https://www.stantonamarlberg.com/en/weather-report). Ski conditions [here](https://www.bergfex.com/stanton-stchristoph/schneebericht/). Web cams [here](https://www.stantonamarlberg.com/en/webcams)
+# Where to Eat and Drink in Stanton
+
+Stanton has legendary Apres Ski and great on the mountain restaurants in St. Anton and nearby Lech.
+
+![Restos](/assets/images/mooserwirt.jpeg)
+## On the mountain
+
+Mike is the lead on this. He has a friend who spends the winters in St. Anton, so he we will gather local knowledge. We will definitely Ski into St. Christoph one day and hit this place for lunch - [The Hospiz Alm](arlberghospiz-alm.at); you can also slide to the restroom versus walking down the stairs.
+## In Town
+
+Plenty of [options](https://archive.is/O1fmg) for dining in St. Anton.  If you are done with meat, potatoes and cheese, the [Skiing Buddha](http://www.skiingbuddha.at/) is decent. Good news for our crew, there are several restaurants open till midnight. For provisions, [Spar Supermarkt](https://spar-markt.at/) is close. 
+
+Lets see what Chat GPT-3 says:
+
+![Restos](/assets/images/chat-gpt3-stanton-restos.png)
