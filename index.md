@@ -6,6 +6,8 @@
 * First night in port celebrations at Mike’s Restaurant - [Fork & Bottle](forkandbottle.ch)
 * Piano Bar in old town afterwards
 
+[Zurich Map](./zurich-page.html)
+
 ## Sat, March 4 – Travel to St. Anton, Austria
 
 * Train from Zurich Bahnhof (Central Station)  to Saint Anton Bahnhof (Station) – 12:40pm train
