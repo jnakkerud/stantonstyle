@@ -32,9 +32,9 @@ Weather forecast can be found [here](https://www.stantonamarlberg.com/en/weather
 St. Anton has legendary Apres Ski and great on the mountain restaurants in St. Anton and nearby Lech. In town has a good selection of restaurants including some late night options.
 
 ![Restos](/assets/images/mooserwirt.jpeg)
-## On the mountain
+## On the mountain (St. Anton, Lech, Zurs)
 
-Mike is the lead on this. He has a friend who spends the winters in St. Anton, so he we will gather local knowledge. We will definitely Ski into St. Christoph one day and hit this place for lunch - [The Hospiz Alm](arlberghospiz-alm.at); you can also slide to the restroom versus walking down the stairs. In the past, we have also enjoyed [Mondschien](https://www.mondschein.com/en/dining-stuben/la-carte-restaurant/) plus many other great options in Lech
+Mike is the lead on this. He has a friend who spends the winters in St. Anton, so he we will gather local knowledge. We will definitely Ski into St. Christoph one day and hit this place for lunch - [The Hospiz Alm](arlberghospiz-alm.at); you can also slide to the restroom versus walking down the stairs. More suggestions [Here](./mountain-restos.md)
 ## In Town
 
 Plenty of [options](https://archive.is/O1fmg) for dining in St. Anton.  In the past, we have enjoyed the [Skiing Buddha](http://www.skiingbuddha.at/) for a break from tradition Austrian fare.  For provisions and breakfast stuff, [Spar Supermarkt](https://spar-markt.at/) is close. 
