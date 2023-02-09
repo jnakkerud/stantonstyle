@@ -29,7 +29,7 @@
 Weather forecast can be found [here](https://www.stantonamarlberg.com/en/weather-report). Ski conditions [here](https://www.bergfex.com/stanton-stchristoph/schneebericht/). Web cams [here](https://www.stantonamarlberg.com/en/webcams)
 # Where to Eat and Drink in St. Anton
 
-St. Anton has legendary Apres Ski and great on the mountain restaurants in St. Anton and nearby Lech.
+St. Anton has legendary Apres Ski and great on the mountain restaurants in St. Anton and nearby Lech. In town has a good selection of restaurants including some late night options.
 
 ![Restos](/assets/images/mooserwirt.jpeg)
 ## On the mountain
@@ -37,7 +37,7 @@ St. Anton has legendary Apres Ski and great on the mountain restaurants in St. A
 Mike is the lead on this. He has a friend who spends the winters in St. Anton, so he we will gather local knowledge. We will definitely Ski into St. Christoph one day and hit this place for lunch - [The Hospiz Alm](arlberghospiz-alm.at); you can also slide to the restroom versus walking down the stairs. In the past, we have also enjoyed [Mondschien](https://www.mondschein.com/en/dining-stuben/la-carte-restaurant/) plus many other great options in Lech
 ## In Town
 
-Plenty of [options](https://archive.is/O1fmg) for dining in St. Anton.  If you are done with meat, potatoes and cheese, the [Skiing Buddha](http://www.skiingbuddha.at/) is decent. Good news for our crew, there are several restaurants open till midnight. For provisions, [Spar Supermarkt](https://spar-markt.at/) is close. 
+Plenty of [options](https://archive.is/O1fmg) for dining in St. Anton.  In the past, we have enjoyed the [Skiing Buddha](http://www.skiingbuddha.at/) for a break from tradition Austrian fare.  For provisions and breakfast stuff, [Spar Supermarkt](https://spar-markt.at/) is close. 
 
 Lets see what Chat GPT-3 says:
 
