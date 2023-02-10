@@ -15,6 +15,7 @@
 * Book 1st Class Coach 26 – I am at seat 74 and most of us have booked are in the same vicinity (EUR 91)
 * St. Anton Accommodations - [Alpen Lodge](http://www.alpen-lodge.at/alpine_lodge_welcome-1.html). We have 2 apartments. John & Dee are in the 1-bedroom apartment and the rest in the 3-bedroom apartment.
 
+[St. Anton Map](./stanton-page.html)
 ## 6 day Ski Pass & Ski Rentals
 
 * I will check with Alpen Lodge if they offer any discounts or can purchase on our behalf
