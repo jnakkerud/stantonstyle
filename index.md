@@ -1,3 +1,4 @@
+{% include photos-page.html %}
 # Itinerary
 
 ## Friday, March 3 - Zurich
@@ -44,5 +45,4 @@ Lets see what ChatGPT says:
 
 ![Restos](/assets/images/chat-gpt3-stanton-restos.png)
 
-[Images from past trips](./photos-page.html)
 
