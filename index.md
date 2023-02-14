@@ -40,6 +40,9 @@ Mike is the lead on this. He has a friend who spends the winters in St. Anton, s
 
 Plenty of [options](https://archive.is/O1fmg) for dining in St. Anton.  In the past, we have enjoyed the [Skiing Buddha](http://www.skiingbuddha.at/) for a break from tradition Austrian fare.  For provisions and breakfast stuff, [Spar Supermarkt](https://spar-markt.at/) is close. 
 
-Lets see what Chat GPT-3 says:
+Lets see what ChatGPT says:
 
 ![Restos](/assets/images/chat-gpt3-stanton-restos.png)
+
+[Images from past trips](./photos-page.html)
+
