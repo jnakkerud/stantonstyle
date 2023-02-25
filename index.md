@@ -11,15 +11,15 @@
 
 ## Sat, March 4 – Travel to St. Anton, Austria
 
-* Train from Zurich Bahnhof (Central Station)  to Saint Anton Bahnhof (Station) – 12:40pm train
+* Train from Zurich Bahnhof (Central Station) to Saint Anton Bahnhof (Station) – 12:40pm train
 * Book your train ticket on the “OBB” App (Austrian Train) so that you have the electronic ticket on your phone – website link if you want to access via your computer - Home - [ÖBB](https://shop.oebbtickets.at/en/ticket)
 * Book 1st Class Coach 26 – I am at seat 74 and most of us have booked are in the same vicinity (EUR 91)
-* St. Anton Accommodations - [Alpen Lodge](http://www.alpen-lodge.at/alpine_lodge_welcome-1.html). We have 2 apartments. John & Dee are in the 1-bedroom apartment and the rest in the 3-bedroom apartment.
+* St. Anton Accommodations - [Alpen Lodge](http://www.alpen-lodge.at/alpine_lodge_welcome-1.html). We have 2 apartments. John & Dee are in the 1-bedroom apartment and the rest in the 3-bedroom apartment. The accommodations are a short walk away from the train station as shown in the map.
 
 [St. Anton Map](./stanton-page.html)
 ## 6 day Ski Pass & Ski Rentals
 
-* I will check with Alpen Lodge if they offer any discounts or can purchase on our behalf
+* We can get the lift passes from Alpen Lodge 8AM on the day we ski.
 * In the past we have used [Jennewein](https://www.sport-jennewein.com/) and [Intersport](https://www.intersport-arlberg.com/en/) for ski rentals
 * Consider adding [rescue insurance](https://www.skiarlberg.at/en/Ski-Arlberg/Safety-Card) when getting the ski pass
 
